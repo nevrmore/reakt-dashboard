@@ -30,7 +30,7 @@
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"prettier": "^2.8.7",
 		"sass": "^1.60.0",
-		"vite": "^4.2.3"
+		"vite": "^4.5.2"
 	},
 	"main": "main.jsx",
 	"author": "wsameer <dev.wsameer@gmail.com>",
